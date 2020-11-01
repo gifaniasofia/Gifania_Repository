@@ -1,1 +1,0 @@
-# Teradata Practice Exercise Coursera
